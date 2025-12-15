@@ -1,0 +1,219 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE.lock
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+.history/
+*.iml
+
+# Testing
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.ruff_cache/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+package-lock.json
+yarn.lock
+
+# Frontend build
+dist/
+build/
+.next/
+out/
+.nuxt
+.cache/
+.vuepress/dist/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.prod
+.env.prod.local
+.env.development.local
+.env.test.local
+
+# Secrets
+*.pem
+*.key
+*.crt
+*.p12
+private_key.pem
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Mac
+.AppleDouble
+.LSOverride
+*.icloud
+
+# Linux
+.directory
+
+# Project specific
+.local/
+.data/
+.uploads/
+.cache/
+.generated/
+
+# CI/CD
+.github/workflows/secrets.yml
+
+# Kubernetes
+helm-values-prod.yaml
+kubernetes/secrets/
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+
+# Build artifacts
+*.o
+*.a
+*.lib
+*.dll
+*.dylib
+*.exe
+*.out
+*.app
+
+# IDE specific
+.classpath
+.project
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# MacOS
+.AppleDS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+desktop.ini
+ehthumbs.db
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+*.cover
+
+# Performance testing
+profile_default.txt
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Local development
+*.bak
+*.orig
+*.rej
+
+# IDEs
+.VSCodeCounter
+
+# Generated files
+generatedsources/
+
+# Mobile
+node_modules/
+.expo/
+.expo-shared/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# Python
+.pytest_cache
+.hypothesis/
+*.cover
+.coverage
+
+# Misc
+.elixir_ls/
